@@ -1,4 +1,7 @@
 # markdown
+![Discord-Markdown-How-To-Use-It-and-Why-You-Should](https://github.com/user-attachments/assets/13175c16-8eed-4edc-885f-8bdf28716780)
+
+
 ### ¿para que sirve markdown?
 Markdown será perfecto para ti sobre todo si publicas de manera constante en Internet, donde el lenguaje HTML está más que presente: WordPress, Squarespace, Jekyll…
 
